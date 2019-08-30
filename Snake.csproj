@@ -41,13 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="123\SnakeDisplay.cs" />
-    <Compile Include="123\WallsDisplay.cs" />
     <Compile Include="Enums\GameObject.cs" />
     <Compile Include="Enums\Direction.cs" />
     <Compile Include="Figure.cs" />
     <Compile Include="FoodCreator.cs" />
-    <Compile Include="123\FoodDisplay.cs" />
+    <Compile Include="GameOver.cs" />
     <Compile Include="HorizontalLine.cs" />
     <Compile Include="IMovable.cs" />
     <Compile Include="Point.cs" />
